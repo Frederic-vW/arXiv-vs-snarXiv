@@ -1,8 +1,10 @@
 # arXiv-vs-snarXiv
 
-Rendered site: [https://frederic-vw.github.io/arXiv-vs-snarXiv](https://frederic-vw.github.io/arXiv-vs-snarXiv)  
+arXiv-vs-snarXiv website: [http://snarxiv.org/vs-arxiv/](http://snarxiv.org/vs-arxiv/)  
 
-Slides: [https://frederic-vw.github.io/arXiv-vs-snarXiv/snarxiv_learn.slides.html](https://frederic-vw.github.io/arXiv-vs-snarXiv/snarxiv_learn.slides.html)  
+Rendered github repo site: [https://frederic-vw.github.io/arXiv-vs-snarXiv](https://frederic-vw.github.io/arXiv-vs-snarXiv)  
+
+Notebook as slides: [https://frederic-vw.github.io/arXiv-vs-snarXiv/snarxiv_learn.slides.html](https://frederic-vw.github.io/arXiv-vs-snarXiv/snarxiv_learn.slides.html)  
 
 Kaggle notebook: [https://www.kaggle.com/code/frederic2016/snarxiv-learn](https://www.kaggle.com/code/frederic2016/snarxiv-learn)  
 
