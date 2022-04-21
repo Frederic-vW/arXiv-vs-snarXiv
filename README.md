@@ -1,8 +1,10 @@
 # arXiv-vs-snarXiv
 
-Rendered site at: [https://frederic-vw.github.io/arXiv-vs-snarXiv/snarxiv_learn.slides.html](https://frederic-vw.github.io/arXiv-vs-snarXiv/snarxiv_learn.slides.html)
+Rendered site: [https://frederic-vw.github.io/arXiv-vs-snarXiv](https://frederic-vw.github.io/arXiv-vs-snarXiv)  
 
-On kaggle: [https://www.kaggle.com/code/frederic2016/snarxiv-learn](https://www.kaggle.com/code/frederic2016/snarxiv-learn)
+Slides: [https://frederic-vw.github.io/arXiv-vs-snarXiv/snarxiv_learn.slides.html](https://frederic-vw.github.io/arXiv-vs-snarXiv/snarxiv_learn.slides.html)  
+
+Kaggle notebook: [https://www.kaggle.com/code/frederic2016/snarxiv-learn](https://www.kaggle.com/code/frederic2016/snarxiv-learn)  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Frederic-vW/arXiv-vs-snarXiv/HEAD?labpath=snarxiv_learn.ipynb)
 
